@@ -1,0 +1,15 @@
+/Users/gumenukpavel/Desktop/DZ/Dz_1/bin/Debug/net6.0/Dz_1
+/Users/gumenukpavel/Desktop/DZ/Dz_1/bin/Debug/net6.0/Dz_1.deps.json
+/Users/gumenukpavel/Desktop/DZ/Dz_1/bin/Debug/net6.0/Dz_1.runtimeconfig.json
+/Users/gumenukpavel/Desktop/DZ/Dz_1/bin/Debug/net6.0/Dz_1.dll
+/Users/gumenukpavel/Desktop/DZ/Dz_1/bin/Debug/net6.0/Dz_1.pdb
+/Users/gumenukpavel/Desktop/DZ/Dz_1/obj/Debug/net6.0/Dz_1.csproj.AssemblyReference.cache
+/Users/gumenukpavel/Desktop/DZ/Dz_1/obj/Debug/net6.0/Dz_1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gumenukpavel/Desktop/DZ/Dz_1/obj/Debug/net6.0/Dz_1.AssemblyInfoInputs.cache
+/Users/gumenukpavel/Desktop/DZ/Dz_1/obj/Debug/net6.0/Dz_1.AssemblyInfo.cs
+/Users/gumenukpavel/Desktop/DZ/Dz_1/obj/Debug/net6.0/Dz_1.csproj.CoreCompileInputs.cache
+/Users/gumenukpavel/Desktop/DZ/Dz_1/obj/Debug/net6.0/Dz_1.dll
+/Users/gumenukpavel/Desktop/DZ/Dz_1/obj/Debug/net6.0/refint/Dz_1.dll
+/Users/gumenukpavel/Desktop/DZ/Dz_1/obj/Debug/net6.0/Dz_1.pdb
+/Users/gumenukpavel/Desktop/DZ/Dz_1/obj/Debug/net6.0/Dz_1.genruntimeconfig.cache
+/Users/gumenukpavel/Desktop/DZ/Dz_1/obj/Debug/net6.0/ref/Dz_1.dll
